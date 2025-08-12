@@ -1,6 +1,6 @@
 # 🔍 OSINT Araçları Arşivim
 
-Bu repoda kullandığım ve önerdiğim açık kaynak istihbarat (OSINT) araçlarını listeledim. 
+Bu repoda kullandığım ve önerdiğim açık kaynak istihbaratı (OSINT) araçlarını listeledim. 
 
 ## 📱 Telefon OSINT
 - [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)
