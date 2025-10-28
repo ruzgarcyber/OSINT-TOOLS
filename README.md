@@ -1,5 +1,5 @@
 ## OSINT Tools.
-> Selamlar herkese, bu repo'da bilindik **OSINT** araçları vardır.
+> Selamlar herkese, bu repo'da bilindik **OSINT** araçlarını listeledim.
 ## Bulunan Araç Kategorileri.
 - *Telefon OSINT* 📱
 - *E-Posta OSINT* 📧
