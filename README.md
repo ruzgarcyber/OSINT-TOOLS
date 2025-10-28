@@ -6,4 +6,4 @@
 - *Kullanıcı adı takibi* 🕵️‍♂️
 - *Domain / IP OSINT* 🌐
 > Umarım size faydalı olabilmiştir.
-- **ARAÇ LİSTESİ OSINT DOSYASININ İÇİNDE Kİ OSINT.md DOSYASINDADIR.**
+- **ARAÇ LİSTESİ OSINT DOSYASININ İÇİNDE Kİ osint_tools.md DOSYASINDADIR.**
