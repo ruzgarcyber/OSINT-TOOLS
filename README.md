@@ -7,4 +7,4 @@
 - *Domain / IP OSINT* 🌐
 > Umarım size faydalı olabilmiştir.
 - **ARAÇ LİSTESİ OSINT DOSYASININ İÇİNDE Kİ osint_tools.md DOSYASINDADIR.**
-> *NOT:* Burada illegal bi işlem yoktur sadece açık kaynaklar ile yapılmaktadır. 
+> *NOT:* Burada illegal bi işlem yoktur, sadece açık kaynaklar ile işlemler yapılmaktadır. 
